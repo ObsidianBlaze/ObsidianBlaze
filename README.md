@@ -1,4 +1,11 @@
 ### Hi there 👋
+My Name is Idada Osaigbovo James but I go by Osas.
+⚡ Honestly, I am an atypical guy. Why? Well, I love Java and Python. I do not engage in those banter that slanders one for another.
+⚡ I am a natural Java Developer. After all, I have James in my name, like James Goslin.
+😄 I learn really fast and I am confident on my learning speed.
+😄 As much as I am eccentric, I have a penchant for collaborating with and leading a team.
+💬 I am pretty good with Java EE, SE, and Andriod, Python, Php and Laravel, Javascript, Microsoft sql server
+🔭 I’m currently working on an enterprise application with laravel as the sole backend developer(I am badass :-> )!
 
 <!--
 **ObsidianBlaze/ObsidianBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
