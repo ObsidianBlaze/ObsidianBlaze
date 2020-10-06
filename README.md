@@ -1,9 +1,9 @@
 ### Want to know about this guy? 👋
 My Name is Idada Osaigbovo James but I go by Osas.<br>
 ⚡ Honestly, I am an atypical guy. Why? Well, I love Java and Python. I do not engage in those banter that slanders one for another.<br>
-⚡ I am a natural Java Developer. After all, I have James in my name, like James Goslin.<br>
+🌱 I am a natural Java Developer. After all, I have James in my name, like James Goslin.<br>
 😄 I learn really fast and I am confident on my learning speed.<br>
-😄 As much as I am eccentric, I have a penchant for collaborating with and leading a team.<br>
+🤔 As much as I am eccentric, I have a penchant for collaborating with and leading a team.<br>
 💬 I am pretty good with Java EE, SE, and Andriod, Python, Php and Laravel, Javascript, Microsoft sql server.<br>
 🔭 I’m currently working on an enterprise application with laravel as the sole backend developer(I am badass :-> )!<br>
 👯 At the pinnacle of my career, I would ensure I make a meaningful impact to both Africa and the world at large!
