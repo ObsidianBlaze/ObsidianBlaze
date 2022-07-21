@@ -7,6 +7,7 @@ My Name is Idada Osaigbovo James but I go by Osas.<br>
 💬 I am pretty good with Java EE, SE, and Andriod, Python, Php and Laravel, Javascript, Microsoft sql server.<br>
 🔭 I’m currently working on an enterprise application with laravel as the sole backend developer(I am badass :-> )!<br>
 👯 At the pinnacle of my career, I would ensure I make a meaningful impact to both Africa and the world at large!
+⚡ I make open source contributions.
 
 <!--
 **ObsidianBlaze/ObsidianBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
