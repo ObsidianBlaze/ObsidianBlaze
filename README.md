@@ -1,3 +1,4 @@
+<!--
 ### Want to know about this guy? 👋
 My Name is Idada Osaigbovo James but I go by Osas.<br>
 ⚡ Honestly, I am an atypical guy. Why? Well, I love Java and Python. I do not engage in those banter that slanders one for another.<br>
