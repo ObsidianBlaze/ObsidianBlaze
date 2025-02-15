@@ -42,10 +42,10 @@ I'm a Laravel developer with **3+ years of experience**, specializing in buildin
 ```mermaid
 graph TD;
     Laravel-->90%;
-    PHP-->85%;
-    Golang-->40%;
-    Node.js-->30%;
-    Vue.js-->70%;
+    PHP-->90%;
+    Golang-->45%;
+    Node.js-->40%;
+    Vue.js-->50%;
     JavaScript-->60%;
     MySQL-->75%;
     PostgreSQL-->65%;
@@ -59,7 +59,7 @@ graph TD;
 
 ## 📫 Connect with Me
 - GitHub: [Obsidian Blaze](https://github.com/ObsidianBlaze)
-- LinkedIn: [Idada Osaigbovo James](#)
+- LinkedIn: [Idada Osaigbovo James](https://www.linkedin.com/in/osaigbovojamesidada)
 - Email: idadaosaigbovo@gmail.com
 
 Let's build something awesome together! 🚀
