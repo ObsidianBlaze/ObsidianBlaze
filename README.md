@@ -29,7 +29,7 @@ I'm a Laravel developer with **3+ years of experience**, specializing in buildin
 ### Other Skills:
 - Typesense - Intermediate 🔍
 - WordPress Plugin Development - Intermediate 🔧
-- Paystack Integration - Intermediate 💳
+- Payment Integration - Intermediate 💳
 - API Design & Optimization - Advanced 🔗
 
 ## 📌 Notable Projects
