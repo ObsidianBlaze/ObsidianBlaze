@@ -1,3 +1,71 @@
+# Hi, I'm Idada Osaigbovo James! 🚀
+
+## 👨‍💻 About Me
+I'm a Laravel developer with **3+ years of experience**, specializing in building scalable backend solutions, optimizing API performance, and integrating third-party services. I also work with Vue.js for frontend development and have experience with Go for backend services.
+
+## 🔥 Tech Stack & Expertise
+
+### Backend:
+- **Laravel** (7-10) - Advanced 🚀
+- PHP - Advanced 🔥
+- Go (Golang) - Beginner 🌱
+- Node.js - Beginner ⚡
+
+### Frontend:
+- Vue.js - Intermediate 🎨
+- JavaScript - Intermediate 📜
+
+### Databases:
+- MySQL - Advanced 🛢️
+- PostgreSQL - Intermediate 📊
+- Redis - Intermediate ⚡
+
+### DevOps & Tools:
+- Docker - Intermediate 🐳
+- Git & GitHub - Advanced 🏗️
+- CI/CD - Intermediate ⚙️
+- AWS - Beginner ☁️
+
+### Other Skills:
+- Typesense - Intermediate 🔍
+- WordPress Plugin Development - Intermediate 🔧
+- Paystack Integration - Intermediate 💳
+- API Design & Optimization - Advanced 🔗
+
+## 📌 Notable Projects
+- **Learning Management System (LMS):** Built and optimized an LMS platform with role-based access control and real-time data synchronization.
+- **WordPress Plugin (Typesense Integration):** Developed a custom plugin to manage and display daily tasks efficiently.
+- **Event Management System:** Implementing Laravel + Vue with Paystack for seamless ticketing and transactions.
+- **High-Traffic API Integration:** Optimized API requests handling 40,000+ batch updates per hour.
+
+## 📊 Skills Chart
+```mermaid
+graph TD;
+    Laravel-->90%;
+    PHP-->85%;
+    Golang-->40%;
+    Node.js-->30%;
+    Vue.js-->70%;
+    JavaScript-->60%;
+    MySQL-->75%;
+    PostgreSQL-->65%;
+    Redis-->80%;
+    Docker-->45%;
+    GitHub-->60%;
+    CI/CD-->50%;
+    AWS-->55%;
+    WordPress-->55%;
+```
+
+## 📫 Connect with Me
+- GitHub: [Obsidian Blaze](https://github.com/ObsidianBlaze)
+- LinkedIn: [Idada Osaigbovo James](#)
+- Email: idadaosaigbovo@gmail.com
+
+Let's build something awesome together! 🚀
+
+
+
 <!--
 ### Want to know about this guy? 👋
 My Name is Idada Osaigbovo James but I go by Osas.<br>
