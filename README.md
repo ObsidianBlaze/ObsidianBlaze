@@ -1,7 +1,7 @@
 # Hi, I'm Idada Osaigbovo James! 🚀
 
 ## 👨‍💻 About Me
-I'm a Laravel developer with **3+ years of experience**, specializing in building scalable backend solutions, optimizing API performance, and integrating third-party services. I also work with Vue.js for frontend development and have experience with Go for backend services.
+I'm a Laravel developer with **5+ years of experience**, specializing in building scalable backend solutions, optimizing API performance, and integrating third-party services. I also work with Vue.js for frontend development and have experience with Go for backend services.
 
 ## 🔥 Tech Stack & Expertise
 
