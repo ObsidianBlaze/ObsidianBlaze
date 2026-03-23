@@ -6,7 +6,7 @@ I'm a Laravel developer with **5+ years of experience**, specializing in buildin
 ## 🔥 Tech Stack & Expertise
 
 ### Backend:
-- **Laravel** (7-12) - Advanced 🚀
+- **Laravel** (7-13) - Advanced 🚀
 - PHP - Advanced 🔥
 - Go (Golang) - Beginner 🌱
 - Node.js - Beginner ⚡
